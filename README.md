@@ -6,11 +6,13 @@ Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo m
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas 
+- Controle de Versionamento (Git/GitHub)
 - Cloud Computing (Azure, GCP)
 - Banco de Dados SQL (SQL Server, MySQL)
-- Data Factory
-- Databricks
-- Linguagens de Programação (Python - Pandas & Numpy)
+- Serviço de ETL na Nuvem (Data Factory);
+- Processamento Big Data (Databricks);
+- Linguagens de Programação (Python, PySpark)
+- Manipulação de Dados usando Pandas, Numpy;
 - Visualização de Dados (PowerBi, expressões DAX)
 <p align=center>
 </p>
@@ -19,7 +21,6 @@ Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo m
 
 ### 📚 Atualmente aprendendo: DevOps
 - Metodologia Ágeis/Kanban/Scrum (Azure Boards)
-- Controle de Versionamento (Git)
 - Virtualização e Provisionamento (Terraform, Ansible)
 - Conteinerização (Docker, Compose, Kubernetes, AKS)
 
