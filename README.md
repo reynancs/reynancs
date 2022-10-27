@@ -18,7 +18,7 @@ Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo m
 
 
 ### 📚 Atualmente aprendendo: DevOps
-- Metodologia Ágeis/Kanban/Scrum
+- Metodologia Ágeis/Kanban/Scrum (Azure Boards)
 - Controle de Versionamento (Git)
 - Virtualização e Provisionamento (Terraform, Ansible)
 - Conteinerização (Docker, Compose, Kubernetes, AKS)
