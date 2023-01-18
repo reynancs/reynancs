@@ -14,20 +14,11 @@ Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo m
 - Linguagens de Programação (Python, PySpark)
 - Manipulação de Dados usando Pandas, Numpy;
 - Visualização de Dados (PowerBi, expressões DAX)
+- Metodologia Ágeis/Kanban/Scrum (Trello)
+- Virtualização e Provisionamento (Terraform)
+- Conteinerização (Docker, Kubernetes, AKS)
 <p align=center>
 </p>
-
-
-
-### 📚 Atualmente aprendendo: DevOps
-- Metodologia Ágeis/Kanban/Scrum (Azure Boards)
-- Virtualização e Provisionamento (Terraform, Ansible)
-- Conteinerização (Docker, Compose, Kubernetes, AKS)
-
-<p align=center>
-
-</p>
-
 
 
 ### 📫 Contatos:
