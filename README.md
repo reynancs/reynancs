@@ -1,8 +1,17 @@
 ## Olá Devs, eu sou Renan! 👋
 
 <p align=left>
-Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo mundo tech, programação e dados. Recentemente fiz transição da área de manufatura para área de dados, tendo a missão de aprender e explorar esse universo gigantesco!
+Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo mundo tech, programação e dados. Recentemente fiz transição da área de manufatura para área de dados, tendo a missão de aprender, colaborar e explorar esse universo gigantesco!
 </p>
+
+<a href="https://github.com/reynancs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reynancs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynancs&layout=compact&langs_count=7&theme=dark"/>
+    <div align="center">
+  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="400px" />
+  <br>" 
+    </div>
+<div style="display: inline_block"><br>
 
 ### 📫 Contatos:
 
