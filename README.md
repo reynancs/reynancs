@@ -4,6 +4,18 @@
 Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo mundo tech, programação e dados. Recentemente fiz transição da área de manufatura para área de dados, tendo a missão de aprender, colaborar e explorar esse universo gigantesco!
 </p>
 
+Habilidades:
+✔ Controle de Versionamento (Git/GitHub);
+✔ Metodologia Ágeis/Kanban/Scrum;
+✔ Cloud Computing (Azure, GCP);
+✔ Banco de Dados SQL (SQL Server, MySQL);
+✔ Linguagem de Programação (Python, PySpark);
+✔ Manipulação de Dados (Pandas, Numpy, SciPy);
+✔ Exploração de dados (Seaborn, Matplotlib, Pyplot)
+✔ Machine Learning (Scikit-learn) 
+✔ Visualização de Dados (Power BI);
+✔ Conteinerização (Docker, Compose, Kubernetes, AKS)
+
 <a href="https://github.com/reynancs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reynancs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynancs&layout=compact&langs_count=7&theme=dark"/>
