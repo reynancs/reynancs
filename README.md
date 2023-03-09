@@ -5,7 +5,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 
 - 🔭 Atualmente estou trabalhando com Engenharia de Dados **Blueshift Brazil**
 - 🌱 No momento, estou melhorando e desenvolvendo novas habilidades em **Python, Machine Learning**
-- 👨‍💻 Todos meus Projetos estão divididos em: Estudo e Portfólio [link_repositorio](link_repositorio)
+- 👨‍💻 Todos meus Projetos estão divididos em: Estudo e Portfólio [link_repositorio]([link_repositorio](https://reynancs.github.io/Portfolio-Projects/))
 - 💬 Me pergunte sobre **cloud python sql powerbi machinelearning**
 - 📫 Pode entrar em contato comigo no email **reynancs@gmail.com**
 - 📄 Conheça um pouco da minha trajetória profissional no meu [perfil linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
@@ -30,7 +30,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 
 
 ## Meu Portfólio
-<div width="100%" align="center"><a href="https://github.com/reynancs/EasyCash" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reynancs&repo=EasyCash&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[Portfolio](https://reynancs.github.io/Portfolio-Projects/)
 
 
 
