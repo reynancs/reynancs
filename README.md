@@ -5,7 +5,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 
 - 🔭 Atualmente estou trabalhando com Engenharia de Dados **Blueshift Brazil**
 - 🌱 No momento, estou melhorando e desenvolvendo novas habilidades em **Python, Machine Learning**
-- 👨‍💻 Todos meus Projetos estão divididos em: Estudo e Portfólio [link_repositorio]([link_repositorio](https://reynancs.github.io/Portfolio-Projects/))
+- 👨‍💻 Todos meus Projetos estão divididos em: Estudo e [Portfólio](https://reynancs.github.io/Portfolio-Projects/)
 - 💬 Me pergunte sobre **cloud python sql powerbi machinelearning**
 - 📫 Pode entrar em contato comigo no email **reynancs@gmail.com**
 - 📄 Conheça um pouco da minha trajetória profissional no meu [perfil linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
