@@ -30,7 +30,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 
 
 ## Meu Portfólio
-[Portfolio](https://reynancs.github.io/Portfolio-Projects/)
+[My GitHub Pages](https://reynancs.github.io/Portfolio-Projects/)
 
 
 
