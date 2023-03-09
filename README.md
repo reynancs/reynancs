@@ -1,43 +1,44 @@
-## Olá Devs, eu sou Renan! 👋
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+14784
+Fork on GitHub
+3975
 
-<p align=left>
-Tenho 34 anos, sou baiano, formado em Engenharia Mecatrônica, apaixonado pelo mundo tech, programação e dados. Recentemente fiz transição da área de manufatura para área de dados, tendo a missão de aprender, colaborar e explorar esse universo gigantesco!
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Oi 👋, Eu sou Renan.</h1>
+<h3 align="center">Um entusiasta por programação e dados no mundo tech</h3>
+
+- 🔭 Atualmente estou trabalhando com Engenharia de Dados **Blueshift Brazil**
+
+- 🌱 No momento, estou desenvolvendo novas habilidades em **Ciência de Dados**
+
+- 👨‍💻 Todos meus Projetos estão disponíveis aqui [link_repositorio](link_repositorio)
+
+- 💬 Me pergunte sobre **python sql powerbi machinelearning**
+
+- 📫 Pode entrar em contato comigo no email **reynancs@gmail.com**
+
+- 📄 Conheça um pouco da minha trajetória profissional no meu [perfil linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/renan-cardoso-8323b151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renan-cardoso-8323b151/" height="30" width="40" /></a>
+<a href="https://kaggle.com/reynancs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="reynancs" height="30" width="40" /></a>
+<a href="https://medium.com/@reynancs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reynancs" height="30" width="40" /></a>
 </p>
 
-## Habilidades:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-✔ Controle de Versionamento (Git/GitHub);
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynancs&show_icons=true&locale=en&layout=compact" alt="reynancs" /></p>
 
-✔ Metodologia Ágeis/Kanban/Scrum;
-
-✔ Cloud Computing (Azure, GCP);
-
-✔ Banco de Dados SQL (SQL Server, MySQL);
-
-✔ Linguagem de Programação (Python, PySpark);
-
-✔ Manipulação de Dados (Pandas, Numpy, SciPy);
-
-✔ Exploração de dados (Seaborn, Matplotlib, Pyplot)
-
-✔ Machine Learning (Scikit-learn) 
-
-✔ Visualização de Dados (Power BI);
-
-✔ Conteinerização (Docker, Compose, Kubernetes, AKS)
-
-
-
-<a href="https://github.com/reynancs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reynancs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynancs&layout=compact&langs_count=7&theme=dark"/>
-    <div align="center">
-  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="400px" />
-  <br>" 
-    </div>
-<div style="display: inline_block"><br>
-
-### 📫 Contatos:
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/renan-c-santos-8323b151/)
-[<img alt="Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:reynancs@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynancs&show_icons=true&locale=en" alt="reynancs" /></p>
