@@ -37,8 +37,8 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 ## Status GitHub
 <p align="left">
 <a href="https://github.com/reynancs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reynancs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reynancs&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reynancs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reynancs&layout=compact&langs_count=8&theme=transparent"/>
 </a>
 </p>
 
