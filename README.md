@@ -12,7 +12,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 
 
 ## Linguagens e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![StatsModels](https://img.shields.io/badge/StatsModels-%230C55A5.svg?style=for-the-badge&logo=statsmodels&logoColor=%white)
@@ -21,7 +21,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=yellow)
@@ -30,7 +30,7 @@ Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenh
 
 
 ## Meu Portfólio
-[My GitHub Pages](https://reynancs.github.io/Portfolio-Projects/)
+[My GitHub Pages](https://reynancs.github.io/Portfolio-Guide)
 
 
 
