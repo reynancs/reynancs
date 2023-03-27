@@ -1,7 +1,7 @@
 
 <h1 align="left">Olá 👋, eu sou Renan...</h1>
 
-Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenheiro de processo e Black Belt 6-Sigma em uma automobílistica, há um ano atrás resolvi me dedicar ao mundo tech, o qual sou um entusiasta por programação e dados.
+Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenheiro de processo e Black Belt 6-Sigma em uma automobílistica, há um ano resolvi me dedicar ao mundo tech, o qual sou um entusiasta por programação e dados.
 
 - 🔭 Atualmente estou trabalhando com Engenharia de Dados **Blueshift Brazil**
 - 🌱 No momento, estou melhorando e desenvolvendo novas habilidades em **Python, Machine Learning**
