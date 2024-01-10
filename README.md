@@ -4,7 +4,6 @@
 Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenheiro de processo e Black Belt 6-Sigma em uma automobílistica, há um ano resolvi me dedicar ao mundo tech, o qual sou um entusiasta por programação e dados.
 
 - 🔭 Atualmente estou trabalhando como Analista de Dados ** Petroreconcavo **
-- 🌱 No momento, estou melhorando e desenvolvendo novas habilidades em **Python, Machine Learning**
 - 👨‍💻 Todos meus Projetos estão divididos em: [Study-Guide](https://github.com/reynancs/study-guide) e [Portfolio-Guide](https://reynancs.github.io/portfolio-guide/)
 - 💬 Me pergunte sobre `cloud` `python` `sql` `powerbi` `machinelearning`
 - 📫 Pode entrar em contato comigo no email **reynancs@gmail.com**
