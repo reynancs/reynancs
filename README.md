@@ -1,12 +1,11 @@
 
 <h1 align="left">Olá 👋, eu sou Renan...</h1>
 
-Sou baiano, formado em Engenharia Mecatrônica, atuei durante 7 anos como engenheiro de processo e Black Belt 6-Sigma em uma automobílistica, há um ano resolvi me dedicar ao mundo tech, o qual sou um entusiasta por programação e dados.
+Sou um profissional entusiasta da área de Data Science e Inteligência Artificial com uma sólida formação em Engenharia Mecatrônica, MBA em Lean Manufacturing e certificação Black Belt Lean 6-Sigma. Desde 2021, estou imerso na área de dados realizando projetos de Big Data e Analytics atuando em projetos inovadores e soluções de Data Driven, transformando dados em insights valiosos para negócios.
 
-- 🔭 Atualmente estou trabalhando como Analista de Dados na área de Oil & Gas
 - 👨‍💻 Todos meus Projetos estão divididos em: [Study-Guide](https://github.com/reynancs/study-guide) e [Portfolio-Guide](https://reynancs.github.io/portfolio-guide/)
-- 💬 Me pergunte sobre `cloud` `python` `sql` `powerbi` `machinelearning`
-- 📫 Pode entrar em contato comigo no email **reynancs@gmail.com**
+- 💬 Me pergunte sobre `cloud` `python` 'ia'`sql` `powerbi` `machinelearning`
+- 📫 Pode entrar em contato comigo no email profissional **renan.c.sants@outlook.com**
 - 📄 Conheça um pouco da minha trajetória profissional no meu [perfil linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
 
 
