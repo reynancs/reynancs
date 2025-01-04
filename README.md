@@ -5,7 +5,7 @@ Sou um profissional entusiasta da área de Data Science e Inteligência Artifici
 
 - 👨‍💻 Todos meus Projetos estão divididos em: [Study-Guide](https://github.com/reynancs/study-guide) e [Portfolio-Guide](https://reynancs.github.io/portfolio-guide/)
 - 💬 Me pergunte sobre `cloud` `python` 'ia'`sql` `powerbi` `machinelearning`
-- 📫 Pode entrar em contato comigo no email profissional **renan.c.sants@outlook.com**
+- 📫 Pode entrar em contato comigo no email profissional **renan.cs.sants@gmail.com**
 - 📄 Conheça um pouco da minha trajetória profissional no meu [perfil linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
 
 
