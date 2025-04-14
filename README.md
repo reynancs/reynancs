@@ -1,10 +1,10 @@
 
 <h1 align="left">Olá 👋, eu sou Renan...</h1>
 
-Sou um profissional entusiasta da área de Data Science e Inteligência Artificial com uma sólida formação em Engenharia Mecatrônica, MBA em Lean Manufacturing e certificação Black Belt Lean 6-Sigma. Desde 2021, estou imerso na área de dados realizando projetos de Big Data e Analytics atuando em projetos inovadores e soluções de Data Driven, transformando dados em insights valiosos para negócios.
+Profissional de Data Science e entusiasta do mundo de IA, formado em Engenharia Mecatrônica, com sólido fundamentos em matemática e estatística. Após atuar uma década na indústria automotiva, desde 2021 estou imerso na área de dados realizando projetos de Big Data e Analytics e AI, atuando em projetos e soluções inovadoras, transformando dados em insights valiosos para negócios.
 
 - 👨‍💻 Todos meus Projetos estão divididos em: [Study-Guide](https://github.com/reynancs/study-guide) e [Portfolio-Guide](https://reynancs.github.io/portfolio-guide/)
-- 💬 Me pergunte sobre `cloud` `python` `ai` `sql` `powerbi` `machinelearning`
+- 💬 Me pergunte sobre `machinelearning` `AI` `GenAI` `cloud` `python` `sql` `pyspark` 
 - 📫 Pode entrar em contato comigo no email profissional **renan.cs.sants@gmail.com**
 - 📄 Conheça um pouco da minha trajetória profissional no meu [perfil linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
 
