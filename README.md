@@ -1,7 +1,7 @@
 
 <h1 align="left">Olá 👋, eu sou Renan...</h1>
 
-Profissional de Data Science e entusiasta do mundo de IA, formado em Engenharia Mecatrônica, com sólido fundamentos em matemática e estatística. Após atuar uma década na indústria automotiva, desde 2021 estou imerso na área de dados realizando projetos de Big Data e Analytics e AI, atuando em projetos e soluções inovadoras, transformando dados em insights valiosos para negócios.
+Profissional de Data Science e entusiasta do mundo de IA, formado em Engenharia Mecatrônica, estudante de Mestrado em Computação Quântica, com sólido fundamentos em matemática e estatística. Após atuar uma década na indústria automotiva, desde 2021 estou imerso na área de dados realizando projetos de Big Data e Analytics e AI, atuando em projetos e soluções inovadoras, transformando dados em insights valiosos para negócios.
 
 - 👨‍💻 Todos meus Projetos estão divididos em: [Study-Guide](https://github.com/reynancs/study-guide) e [Portfolio-Guide](https://reynancs.github.io/portfolio-guide/)
 - 💬 Me pergunte sobre `machinelearning` `AI` `GenAI` `cloud` `python` `sql` `pyspark` 
