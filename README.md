@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Renan Cardoso...</h1>
-🎯 Data Scientist | 🤖 AI Enthusiast | 🧠 Quantum Computing Researcher |
+🎯 Data Scientist Certificated @IBM | 🤖 AI Enthusiast | 🧠 Quantum Computing Researcher |
 
 - Professional in Data Science with a background in Mechatronics Engineering and currently a Master's student in Quantum Computing. I have strong foundations in mathematics and statistics, and over 10 years of experience in the automotive industry. Since 2021, I have been immersed in the data field, delivering Big Data, Analytics, and AI solutions, transforming data into valuable business insights.
 
@@ -28,6 +28,6 @@ My work is organized into two main repositories:
 </p>
 
 
-###📫 Contact
+### 📫 Contact
 - 📧 renan.cs.sants@gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/renan-cardoso-8323b151/)
