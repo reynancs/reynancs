@@ -9,8 +9,8 @@
 
 My portfolio is structured to reflect different project complexities and purposes:
 
-| Folder | Description |
-|--------|-------------|
+|     Folder     | Description |
+|----------------|-------------|
 | 📊 [portfolio](./projetos_longos) | End-to-end projects following the **CRISP-DM** methodology, with detailed business understanding, data preparation, modeling, and deployment simulation. |
 | ⚡ [cases-study](./projetos_praticos) | Short and focused projects aimed at practicing specific algorithms, techniques, or solving small real-world problems. |
 | 🧪 [handson-labs](./experiments) | A personal laboratory for skill testing — includes feature engineering trials, model tuning, visualization techniques, and deep learning experiments. |
