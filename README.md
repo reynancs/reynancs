@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Renan Cardoso...</h1>
 🎯 Data Scientist Certificated @IBM | 🤖 AI Enthusiast | 🧠 Quantum Computing Researcher |
 
-- Professional in Data Science with a background in Mechatronics Engineering and currently a Master's student in Quantum Computing. I have strong foundations in mathematics and statistics, and over 10 years of experience in the automotive industry. Since 2021, I have been immersed in the data field, delivering Big Data, Analytics, and AI solutions, transforming data into valuable business insights.
+Professional in Data Science with a background in Mechatronics Engineering and currently a Master's student in Quantum Computing. I have strong foundations in mathematics and statistics, and over 10 years of experience in the automotive industry. Since 2021, I have been immersed in the data field, delivering Big Data, Analytics, and AI solutions, transforming data into valuable business insights.
 
 ---
 
@@ -9,8 +9,8 @@
 
 My portfolio is structured to reflect different project complexities and purposes:
 
-|     Folder     | Description |
-|----------------|-------------|
+|      Folder      | Description |
+|------------------|-------------|
 | 📊 [portfolio](./projetos_longos) | End-to-end projects following the **CRISP-DM** methodology, with detailed business understanding, data preparation, modeling, and deployment simulation. |
 | ⚡ [cases-study](./projetos_praticos) | Short and focused projects aimed at practicing specific algorithms, techniques, or solving small real-world problems. |
 | 🧪 [handson-labs](./experiments) | A personal laboratory for skill testing — includes feature engineering trials, model tuning, visualization techniques, and deep learning experiments. |
