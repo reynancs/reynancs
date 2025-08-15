@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Renan Cardoso · Data Scientist</title>
+  <meta name="description" content="Portfólio de projetos em Data Science, Machine Learning e IA por Renan Cardoso." />
+  <meta property="og:title" content="Renan Cardoso · Data Scientist" />
+  <meta property="og:description" content="Portfólio de projetos em Data Science, Machine Learning e IA por Renan Cardoso." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://github.com/reynancs.png" />
+  <meta name="theme-color" content="#0f172a" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg: #0b1020;
+      --panel: #0f172a;
+      --muted: #9aa4b2;
+      --text: #e5e7eb;
+      --accent: #22d3ee; /* cyan-400 */
+      --accent-2: #60a5fa; /* blue-400 */
+      --ring: rgba(34,211,238,0.3);
+      --ok: #34d399;
+      --danger:#f87171;
+      --shadow: 0 10px 30px rgba(2, 6, 23, 0.5);
+    }
+    [data-theme="light"]{
+      --bg: #f8fafc;
+      --panel: #ffffff;
+      --muted: #64748b;
+      --text: #0f172a;
+      --accent: #0891b2;
+      --accent-2: #2563eb;
+      --ring: rgba(37,99,235,0.2);
+      --ok: #059669;
+      --danger:#dc2626;
+      --shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0; font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background:radial-gradient(1200px 800px at 10% -10%, rgba(34,211,238,0.08), transparent 60%),
+                 radial-gradient(900px 600px at 110% 10%, rgba(96,165,250,0.08), transparent 60%),
+                 var(--bg);
+      color:var(--text);
+      line-height:1.6;
+    }
+    a{color:inherit; text-decoration:none}
+    .container{max-width:1100px; margin:0 auto; padding:24px}
+    header{
+      position:sticky; top:0; z-index:50; backdrop-filter: blur(8px);
+      background: color-mix(in oklab, var(--bg) 90%, transparent);
+      border-bottom:1px solid color-mix(in oklab, var(--muted) 20%, transparent);
+    }
+    .nav{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 0}
+    .brand{display:flex; align-items:center; gap:12px}
+    .avatar{width:36px; height:36px; border-radius:50%; border:2px solid color-mix(in oklab, var(--accent) 60%, var(--panel)); box-shadow: var(--shadow);}
+    .brand h1{font-size:16px; margin:0; font-weight:600}
+    .btn{display:inline-flex; align-items:center; gap:8px; padding:10px 14px; border-radius:12px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); color:#0b1020; font-weight:600; border:0}
+    .btn:hover{filter:brightness(1.05)}
+    .ghost{background:transparent; color:var(--text); border:1px solid color-mix(in oklab, var(--muted) 30%, transparent)}
+    .ghost:hover{border-color:color-mix(in oklab, var(--accent) 50%, var(--muted))}
+    .toggle{background:transparent; border:1px solid color-mix(in oklab, var(--muted) 30%, transparent); color:var(--text); padding:8px 10px; border-radius:10px}
+
+    .hero{display:grid; grid-template-columns: 1.2fr 0.8fr; gap:28px; align-items:center; padding:48px 0}
+    .title{font-size:clamp(28px, 4vw, 44px); line-height:1.15; margin:0 0 12px; font-weight:800}
+    .subtitle{margin:0 0 20px; color:var(--muted)}
+    .tag{display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:999px; border:1px solid color-mix(in oklab, var(--muted) 30%, transparent); margin:4px 8px 0 0; font-size:13px}
+
+    .panel{background: color-mix(in oklab, var(--panel) 94%, transparent); border:1px solid color-mix(in oklab, var(--muted) 20%, transparent); border-radius:20px; padding:18px; box-shadow: var(--shadow)}
+    .grid{display:grid; gap:16px}
+    .grid.cols-3{grid-template-columns: repeat(3, minmax(0,1fr))}
+    .grid.cols-2{grid-template-columns: repeat(2, minmax(0,1fr))}
+    .card{position:relative; padding:18px; border-radius:18px; background: color-mix(in oklab, var(--panel) 96%, transparent); border:1px solid color-mix(in oklab, var(--muted) 22%, transparent); box-shadow: var(--shadow)}
+    .card:hover{transform: translateY(-2px); transition: .2s ease; border-color: color-mix(in oklab, var(--accent) 35%, var(--muted))}
+    .card h3{margin:0 0 8px}
+    .card p{margin:0 0 12px; color:var(--muted)}
+    .badges{display:flex; flex-wrap:wrap; gap:8px}
+    .badge{font-size:12px; padding:6px 10px; border-radius:999px; background: color-mix(in oklab, var(--accent) 15%, var(--panel)); border:1px solid color-mix(in oklab, var(--accent) 30%, var(--panel)); color:var(--text)}
+    .kpi{display:flex; align-items:center; gap:12px}
+    .kpi strong{font-size:20px}
+
+    .section{padding:14px 0 32px}
+    .section h2{font-size:20px; margin:0 0 12px}
+
+    .footer{padding:24px 0; color:var(--muted); font-size:14px}
+    .links{display:flex; gap:10px; flex-wrap:wrap}
+
+    @media (max-width: 900px){
+      .hero{grid-template-columns: 1fr}
+      .grid.cols-3{grid-template-columns: 1fr}
+      .grid.cols-2{grid-template-columns: 1fr}
+    }
+  </style>
+  <script>
+    // Theme toggle with persistence
+    const applyTheme = (t) => document.documentElement.setAttribute('data-theme', t);
+    const stored = localStorage.getItem('theme');
+    if(stored) applyTheme(stored);
+    function toggleTheme(){
+      const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      applyTheme(next); localStorage.setItem('theme', next);
+    }
+    // Lightweight project data for easy editing
+    const projects = [
+      {
+        title: 'Voice Assistant · GenAI',
+        desc: 'Whisper + GPT-4o + ElevenLabs integrados a CRM simulado para automação de atendimento.',
+        link: 'https://github.com/reynancs/voice-assistant-genai',
+        tags: ['GenAI','Whisper','LLM','Agents']
+      },
+      {
+        title: 'SpaceY – Launch Outcome Classification',
+        desc: 'Classificação do pouso de 1º estágio (SpaceX API) com EDA, modelagem e dashboard.',
+        link: 'https://github.com/reynancs/spacey-launch-cost-prediction',
+        tags: ['Classification','EDA','Plotly']
+      },
+      {
+        title: 'Car Price Prediction',
+        desc: 'Regressão para prever preços de carros (UCI Automobile) com análise explicativa.',
+        link: 'https://github.com/reynancs/car_price_prediction',
+        tags: ['Regression','Pandas','scikit-learn']
+      },
+      {
+        title: 'Credit Scoring',
+        desc: 'Modelos de concessão de crédito com regressão logística e validação.',
+        link: 'https://github.com/reynancs/ml-credit-scoring',
+        tags: ['Finance','Classification','LogReg']
+      },
+      {
+        title: 'Churn Prediction (baseline)',
+        desc: 'Versão inicial com KNN/Naive Bayes para churn em varejo. Próximo passo: CRISP‑DM completo.',
+        link: 'https://github.com/reynancs/ml-churn-predict',
+        tags: ['Churn','Baseline','Retail']
+      },
+      {
+        title: 'MLflow – Regression Tracking',
+        desc: 'Rastreamento e comparação de experimentos de regressão com MLflow.',
+        link: 'https://github.com/reynancs/mlflow-regression-tracking',
+        tags: ['MLOps','MLflow','Experiments']
+      }
+    ];
+    document.addEventListener('DOMContentLoaded', () => {
+      const grid = document.getElementById('featured-grid');
+      if(grid){
+        projects.forEach(p => {
+          const el = document.createElement('a');
+          el.href = p.link; el.className='card'; el.target='_blank'; el.rel='noopener';
+          el.innerHTML = `<h3>${p.title}</h3><p>${p.desc}</p><div class="badges">${p.tags.map(t=>`<span class='badge'>${t}</span>`).join('')}</div>`;
+          grid.appendChild(el);
+        });
+      }
+    });
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Person",
+    "name":"Renan Cardoso",
+    "jobTitle":"Data Scientist",
+    "url":"https://reynancs.github.io/",
+    "sameAs":[
+      "https://github.com/reynancs",
+      "https://www.linkedin.com/in/renan-cardoso-8323b151/"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <div class="brand">
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/000000?v=4" alt="Avatar de Renan Cardoso" />
+        <h1>Renan Cardoso · Data Scientist</h1>
+      </div>
+      <div class="links">
+        <a class="toggle" href="#" onclick="toggleTheme();return false;" aria-label="Alternar tema">🌗 Tema</a>
+        <a class="ghost btn" href="https://github.com/reynancs" target="_blank" rel="noopener">GitHub</a>
+        <a class="btn" href="mailto:renan.cs.sants@gmail.com">Contato</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- HERO -->
+    <section class="hero">
+      <div>
+        <h2 class="title">Construo soluções de <span style="background:linear-gradient(135deg,var(--accent),var(--accent-2)); -webkit-background-clip:text; background-clip:text; color:transparent">Data Science e IA</span> com foco em impacto de negócio.</h2>
+        <p class="subtitle">Cientista de Dados certificado IBM · Engenharia Mecatrônica · Mestrado em Computação Quântica. Experiência em Big Data, ML e MLOps — da análise ao deploy.</p>
+        <div>
+          <span class="tag">Python · SQL · PySpark</span>
+          <span class="tag">scikit-learn · TensorFlow</span>
+          <span class="tag">Azure · GCP</span>
+          <span class="tag">MLflow · Docker</span>
+        </div>
+        <div style="margin-top:18px; display:flex; gap:12px; flex-wrap:wrap">
+          <a class="btn" href="#projetos">Ver projetos</a>
+          <a class="ghost btn" href="https://github.com/reynancs/study-guide" target="_blank" rel="noopener">Study‑Guide</a>
+          <a class="ghost btn" href="https://reynancs.github.io/portfolio-guide/" target="_blank" rel="noopener">Portfolio‑Guide</a>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="grid cols-2">
+          <div class="card kpi">
+            <div>📦</div>
+            <div><strong>10+</strong><br><span class="muted">Projetos publicados</span></div>
+          </div>
+          <div class="card kpi">
+            <div>🧪</div>
+            <div><strong>20+</strong><br><span class="muted">Experimentos técnicos</span></div>
+          </div>
+          <div class="card kpi">
+            <div>🏭</div>
+            <div><strong>Indústria</strong><br><span class="muted">Automotiva · O&G</span></div>
+          </div>
+          <div class="card kpi">
+            <div>🎓</div>
+            <div><strong>IBM</strong><br><span class="muted">Data Science Cert.</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURED PROJECTS -->
+    <section id="projetos" class="section">
+      <h2>Projetos em Destaque</h2>
+      <div id="featured-grid" class="grid cols-3" aria-live="polite"></div>
+    </section>
+
+    <!-- QUICK LINKS -->
+    <section class="section">
+      <div class="grid cols-3">
+        <a class="card" href="https://reynancs.github.io/portfolio-guide/" target="_blank" rel="noopener">
+          <h3>Portfolio‑Guide</h3>
+          <p>Vitrine dos projetos aplicados (GitHub Pages).</p>
+          <div class="badges"><span class="badge">Projetos</span><span class="badge">Demos</span></div>
+        </a>
+        <a class="card" href="https://github.com/reynancs/study-guide" target="_blank" rel="noopener">
+          <h3>Study‑Guide</h3>
+          <p>Notas de estudo, resumos e referências.</p>
+          <div class="badges"><span class="badge">Notas</span><span class="badge">Cheat‑sheets</span></div>
+        </a>
+        <a class="card" href="https://github.com/reynancs?tab=repositories" target="_blank" rel="noopener">
+          <h3>Todos os Repositórios</h3>
+          <p>Navegue pelo código e novos projetos.</p>
+          <div class="badges"><span class="badge">GitHub</span><span class="badge">Open‑source</span></div>
+        </a>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="section panel">
+      <h2>Contato</h2>
+      <p>Aberto a oportunidades em Data Science/Machine Learning. Para falar comigo, use os links abaixo:</p>
+      <div class="grid cols-3">
+        <a class="card" href="mailto:renan.cs.sants@gmail.com" target="_blank" rel="noopener">
+          <h3>✉️ Email</h3>
+          <p>renan.cs.sants@gmail.com</p>
+        </a>
+        <a class="card" href="https://www.linkedin.com/in/renan-cardoso-8323b151/" target="_blank" rel="noopener">
+          <h3>💼 LinkedIn</h3>
+          <p>linkedin.com/in/renan-cardoso-8323b151</p>
+        </a>
+        <a class="card" href="https://github.com/reynancs" target="_blank" rel="noopener">
+          <h3>🐙 GitHub</h3>
+          <p>github.com/reynancs</p>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <div>© <span id="year"></span> Renan Cardoso · Construído com HTML/CSS Vanilla · GitHub Pages</div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

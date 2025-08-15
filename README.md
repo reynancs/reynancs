@@ -14,7 +14,7 @@
 
 | 📂 Folder | Description |
 |-----------|-------------|
-| 📊 [Portfolio Projects](https://github.com/reynancs/portfolio-projects/) | **End-to-end Data Science projects** following the **CRISP-DM** methodology, with complete business understanding, data preparation, modeling, and deployment simulation. |
+| 📊 [Portfolio Projects](https://reynancs.github.io/portfolio-projects/) | **End-to-end Data Science projects** following the **CRISP-DM** methodology, with complete business understanding, data preparation, modeling, and deployment simulation. |
 | 📈 [Case Studies](https://reynancs.github.io/cases-study/) | Short, focused projects for **specific algorithms, techniques, or small real-world problems**. |
 | 🧪 [Code Labs](https://github.com/reynancs/code-lab) | Experimental space for **feature engineering, model tuning, data visualization techniques, and deep learning experiments**. |
 
