@@ -1,29 +1,51 @@
-<h1 align="left">Hi 👋, I'm Renan Cardoso...</h1>
-🎯 Data Scientist Certificated @IBM | 🤖 AI Enthusiast | 🧠 Quantum Computing Researcher |
+<h1 align="left">Hi 👋, I'm Renan Cardoso</h1>
+
+🎯 Data Scientist (IBM Certified) | 🤖 AI & Machine Learning Enthusiast | 🧠 Quantum Computing Researcher  
+
 ---
-Professional in Data Science with a background in Mechatronics Engineering and currently a Master's student in Quantum Computing. I have strong foundations in mathematics and statistics, and over 10 years of experience in the automotive industry. Since 2021, I have been immersed in the data field, delivering Big Data, Analytics, and AI solutions, transforming data into valuable business insights.
+
+> Data Scientist with a background in **Mechatronics Engineering** and currently a **Master's student in Quantum Computing**.  
+> I have strong foundations in **mathematics, statistics, and programming**, with **10+ years of experience** in the automotive industry.  
+> Since 2021, I have been delivering **Big Data, Analytics, and AI solutions**, transforming data into actionable business insights.  
+
 ---
 
 ## 🚀 Projects
 
-My portfolio is structured to reflect different project complexities and purposes:
+My portfolio is organized to cover different complexities and goals:
 
-|      Folder      | Description |
-|------------------|-------------|
-| 📊 [portfolio](./projetos_longos) | End-to-end projects following the **CRISP-DM** methodology, with detailed business understanding, data preparation, modeling, and deployment simulation. |
-| ⚡ [cases-study](https://reynancs.github.io/cases-study/) | Short and focused projects aimed at practicing specific algorithms, techniques, or solving small real-world problems. |
-| 🧪 [code-labs](https://github.com/reynancs/code-lab) | A personal laboratory for skill testing — includes feature engineering trials, model tuning, visualization techniques, and deep learning experiments. |
+| 📂 Folder | Description |
+|-----------|-------------|
+| 📊 [Portfolio Projects](https://github.com/reynancs/portfolio-projects/) | **End-to-end Data Science projects** following the **CRISP-DM** methodology, with complete business understanding, data preparation, modeling, and deployment simulation. |
+| 📈 [Case Studies](https://reynancs.github.io/cases-study/) | Short, focused projects for **specific algorithms, techniques, or small real-world problems**. |
+| 🧪 [Code Labs](https://github.com/reynancs/code-lab) | Experimental space for **feature engineering, model tuning, data visualization techniques, and deep learning experiments**. |
 
 ---
 
 ## 🧠 Skills & Tools
-- **Languages:** Python, R, SQL, PySpark  
-- **Frameworks:** scikit-learn, TensorFlow, Keras, Pandas, NumPy  
-- **Cloud:** Microsoft Azure (Professional Certified), Google Cloud Platform  
-- **Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
-- **Business Intelligent:" Power BI with DAX, Looker Studio  
-- **Databases:** PostgreSQL, Google BigQuery, Databricks Lakehouse  
-- **Other:** Git, Linux, Docker, CI/CD (basic)  
+
+**Programming & Data Handling**  
+- Python, R, SQL, PySpark, Bash/Shell  
+
+**Machine Learning & AI**  
+- scikit-learn, TensorFlow, Keras, XGBoost, LightGBM  
+- Time Series Analysis, Anomaly Detection, Predictive Maintenance  
+
+**Data Processing & Big Data**  
+- Pandas, NumPy
+- Google BigQuery, Databricks Lakehouse, Apache Spark  
+
+**Cloud & DevOps**  
+- Google Cloud Platform, Microsoft Azure (Certified)  
+- Git, Docker, Linux, CI/CD (basic)  
+
+**Visualization & BI**  
+- Matplotlib, Seaborn, Plotly, Streamlit  
+- Power BI (DAX), Looker Studio  
+
+**Other Competencies**  
+- Business Understanding & Data-Driven Decision Making
+- Statistical Analyse
 
 ---
 
@@ -38,5 +60,5 @@ My portfolio is structured to reflect different project complexities and purpose
 ---
 
 ## 📫 Contact
-- 📧 renan.cs.sants@gmail.com  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/renan-cardoso-8323b151/)
+- 📧 **renan.cs.sants@gmail.com**  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/renan-cardoso-8323b151/)  
